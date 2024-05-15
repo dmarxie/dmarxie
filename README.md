@@ -16,6 +16,7 @@ I'm a Computer Science student who is deeply passionate about UI/UX design and a
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmarxie&theme=merko)
