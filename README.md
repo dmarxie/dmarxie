@@ -20,7 +20,7 @@ I'm a Computer Science student who is deeply passionate about UI/UX design and a
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmarxie&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmarxie&layout=compact)
 
 ## Projects
 
