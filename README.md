@@ -1,6 +1,7 @@
 # Hello, I'm Dixie 👋
 
 # Tech Stack:
+![Svelte](https://img.shields.io/badge/Svelte-4a4a52?style=for-the-badge&logo=svelte&logoColor=ff3e01)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
